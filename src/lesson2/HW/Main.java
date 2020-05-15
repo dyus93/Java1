@@ -85,6 +85,7 @@ public class Main {
 //        Arrays.sort(minMaxArr);
 //        System.out.println(minMaxArr[0]);
 //        System.out.println(minMaxArr[minMaxArr.length -1]);
-        
+
+
     }
 }
