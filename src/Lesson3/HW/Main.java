@@ -1,14 +1,13 @@
-package lesson3.HW;
+package Lesson3.HW;
 
-import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
-       game();
-       System.out.println("Конец игры");
+        game();
+        System.out.println("Конец игры");
 
     }
 
